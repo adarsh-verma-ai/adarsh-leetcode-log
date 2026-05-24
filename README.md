@@ -210,4 +210,12 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0350-intersection-of-two-arrays-ii) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
