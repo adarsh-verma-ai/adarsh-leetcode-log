@@ -224,8 +224,10 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
