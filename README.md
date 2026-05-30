@@ -188,6 +188,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0066-plus-one) |
@@ -201,6 +202,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0027-remove-element) |
 | [0349-intersection-of-two-arrays](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0349-intersection-of-two-arrays) |
@@ -237,4 +239,8 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0066-plus-one) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
