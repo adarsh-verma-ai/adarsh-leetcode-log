@@ -242,6 +242,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0066-plus-one) |
 ## Greedy
 |  |
