@@ -225,6 +225,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | ------- |
 | [0020-valid-parentheses](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0058-length-of-last-word) |
 ## Stack
 |  |
 | ------- |
