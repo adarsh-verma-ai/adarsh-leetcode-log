@@ -252,6 +252,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | [0009-palindrome-number](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
@@ -264,4 +265,12 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0136-single-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
