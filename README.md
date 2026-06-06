@@ -195,11 +195,13 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | [0066-plus-one](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
@@ -223,6 +225,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
