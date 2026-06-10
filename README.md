@@ -188,6 +188,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0027-remove-element) |
@@ -202,6 +203,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0349-intersection-of-two-arrays) |
