@@ -203,6 +203,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | [0217-contains-duplicate](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0705-design-hashset](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0705-design-hashset) |
 | [1929-concatenation-of-array](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -215,6 +216,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | [0242-valid-anagram](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0705-design-hashset](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0705-design-hashset) |
 ## Two Pointers
 |  |
 | ------- |
@@ -262,6 +264,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | [0021-merge-two-sorted-lists](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0206-reverse-linked-list) |
+| [0705-design-hashset](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0705-design-hashset) |
 ## Recursion
 |  |
 | ------- |
@@ -310,4 +313,12 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
