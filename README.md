@@ -204,6 +204,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | [0349-intersection-of-two-arrays](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0705-design-hashset](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0706-design-hashmap) |
 | [1929-concatenation-of-array](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -217,6 +218,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | [0349-intersection-of-two-arrays](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0705-design-hashset](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0706-design-hashmap) |
 ## Two Pointers
 |  |
 | ------- |
@@ -265,6 +267,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | [0083-remove-duplicates-from-sorted-list](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0706-design-hashmap) |
 ## Recursion
 |  |
 | ------- |
@@ -317,8 +320,10 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
