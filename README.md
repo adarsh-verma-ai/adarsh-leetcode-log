@@ -225,6 +225,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | [0347-top-k-frequent-elements](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0424-longest-repeating-character-replacement) |
 | [0705-design-hashset](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0706-design-hashmap) |
 ## Two Pointers
@@ -272,6 +273,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | [0058-length-of-last-word](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0424-longest-repeating-character-replacement) |
 ## Stack
 |  |
 | ------- |
@@ -376,4 +378,8 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0128-longest-consecutive-sequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
