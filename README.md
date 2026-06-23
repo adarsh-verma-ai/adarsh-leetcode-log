@@ -278,6 +278,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0094-binary-tree-inorder-traversal) |
 ## Linked List
 |  |
 | ------- |
@@ -382,4 +383,16 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0424-longest-repeating-character-replacement) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
