@@ -226,6 +226,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | [0349-intersection-of-two-arrays](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0706-design-hashmap) |
 ## Two Pointers
@@ -242,6 +243,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -274,6 +276,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | [0125-valid-palindrome](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -383,6 +386,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0567-permutation-in-string) |
 ## Tree
 |  |
 | ------- |
