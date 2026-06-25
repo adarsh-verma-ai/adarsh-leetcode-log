@@ -1,39 +1,28 @@
 class MinStack {
-    private Node head;
+    private Deque<Integer> stack = new ArrayDeque<>();
+    private Deque<Integer> minStack = new ArrayDeque<>();
 
     public void push(int value) {
-        if (head == null) {
-            head = new Node(value, value, null);
-        } else {
-            head = new Node(value, Math.min(value, head.min), head);
+        stack.push(value);
+        if (minStack.isEmpty() || value <= minStack.peek()) {
+            minStack.push(value);
         }
     }
 
     public void pop() {
-        head = head.next;
+        if (stack.pop().equals(minStack.peek())) {
+            minStack.pop();
+        }
     }
 
     public int top() {
-        return head.val;
+        return stack.peek();
     }
 
     public int getMin() {
-        return head.min;
-    }
-
-    private class Node {
-        int val;
-        int min;
-        Node next;
-
-        Node(int val, int min, Node next) {
-            this.val = val;
-            this.min = min;
-            this.next = next;
-        }
+        return minStack.peek();
     }
 }
-
 /**
  * Your MinStack object will be instantiated and called as such:
  * MinStack obj = new MinStack();
