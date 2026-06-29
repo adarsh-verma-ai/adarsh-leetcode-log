@@ -199,6 +199,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | [0066-plus-one](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0136-single-number) |
@@ -335,6 +336,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0912-sort-an-array) |
@@ -396,6 +398,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | [0100-same-tree](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -410,10 +413,15 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | [0100-same-tree](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
